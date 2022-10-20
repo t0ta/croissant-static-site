@@ -1,0 +1,38 @@
+body {
+  background: #fed6e3;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.main-description {
+  margin-bottom: 20px;
+}
+
+.primary-navigation {
+  display: flex;
+  justify-content: center;
+}
+
+.navigation-link {
+  background: #f5a200;
+  border-radius: 6px;
+  color: #000000;
+  margin: 20px;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+
+.navigation-link:hover {
+  opacity: 0.8;
+}
+
+.navigation-link:visited {
+  color: #0000;
+}
+
+.main-image {
+  border-radius: 6px;
+  max-width: 100%;
+  height: auto;
+}
